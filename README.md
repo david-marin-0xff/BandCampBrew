@@ -31,3 +31,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+⚠️ Known Issues (v1.0 PowerShell)
+
+The PowerShell version (BandCampBrew_GUI.ps1) may not work on other PCs because it requires the bandcamp-dl command to be installed and available in your system PATH.
+
+If the .exe version fails, you can try running the PowerShell script directly. But note that on machines without Python or bandcamp-dl, the script will not be able to download albums.
+
+This version is kept as a historical v1.0. For guaranteed cross-PC functionality, please use BandCampBrew v2.0 (Python GUI).
+
