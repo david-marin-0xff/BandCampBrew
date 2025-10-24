@@ -41,4 +41,3 @@ The PowerShell version (BandCampBrew_GUI.ps1) may not work on other PCs because 
 If the .exe version fails, you can try running the PowerShell script directly. But note that on machines without Python or bandcamp-dl, the script will not be able to download albums.
 
 This version is kept as a historical v1.0. For guaranteed cross-PC functionality, please use BandCampBrew v2.0 (Python GUI).
-
