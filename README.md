@@ -4,6 +4,9 @@ BandCampBrew – A small Windows app to download Bandcamp albums with a simple G
 
 A pet project by El_Güero_0xDEADC0DE // Version 1.0, 10/2025
 
+<img width="912" height="605" alt="image" src="https://github.com/user-attachments/assets/f0656fdf-3b6f-48e9-a5e3-3daf184450c7" />
+
+
 ---
 
 ## Features
